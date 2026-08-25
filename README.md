@@ -47,4 +47,4 @@ Details & docs: https://sound-forge-studio.softonx.xyz
 
 ## A note on usage
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.               
+> Provided for educational and utility purposes only. Use at your own discretion.                
